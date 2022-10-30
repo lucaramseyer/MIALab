@@ -1,5 +1,6 @@
 Open Questions:
   last two features (out of the seven) seem to be zero (almost) everywhere?!
+  No post-processing?
   
 ToDo:
   apply changes to feature matrix also to the testing data.
