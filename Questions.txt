@@ -3,4 +3,4 @@ Open Questions:
   No post-processing?
   
 ToDo:
-  apply changes to feature matrix also to the testing data.
+  also save the testing data feature matrices
