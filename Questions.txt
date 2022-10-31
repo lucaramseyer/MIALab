@@ -1,6 +1,7 @@
 Open Questions:
   last two features (out of the seven) seem to be zero (almost) everywhere?!
   No post-processing?
+  What exactly are the atlas coordinate features?
   
 ToDo:
   also save the testing data feature matrices
