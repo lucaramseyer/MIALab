@@ -6,3 +6,6 @@ Open Questions:
   
 ToDo:
   also save the testing data feature matrices
+  HD
+  visualization
+  mask size = feature matrix size?
